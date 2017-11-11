@@ -1,0 +1,11 @@
+stackexchange.com:
+    30332:
+        commands: true
+
+        msg_types:
+            - debug
+            - all
+            - experimental
+
+        privileges:
+            - 167070
